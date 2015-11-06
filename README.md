@@ -1,7 +1,8 @@
 A basic scikit-learn application of text classification for the Kagggle ["What's cooking ?"](https://www.kaggle.com/c/whats-cooking) knowledge competition. 
 
-## Files
+## Environment
 
+- Ipython notebook running in an anaconda environment, with scikit-learn / nltk3 / matplotlib / pandas installed
 - cooking.ipynb is a python notebook that build a model and outputs a csv submission file
 - stats.ipynb provides some data exploration
 
